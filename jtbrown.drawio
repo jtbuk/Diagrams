@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T20:00:37.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-oJ_qCm5MjTHUXSgqtgr" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T20:04:06.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="RcgrVPPX4yjCo4fzvZiB" version="22.1.0" type="github">
   <diagram name="Page-1" id="C4PU5i6eVr4kc8SF1UN9">
-    <mxGraphModel dx="1945" dy="3667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1326" dy="3200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -437,21 +437,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YSOXVqkRpT-0l2Th9NKD-3" value="&lt;b&gt;Chat Client&lt;/b&gt;&lt;br&gt;&lt;i&gt;Nuxt3 Website&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1300" width="150" height="100" as="geometry" />
+          <mxGeometry x="120" y="1300" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YSOXVqkRpT-0l2Th9NKD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YSOXVqkRpT-0l2Th9NKD-4" target="YSOXVqkRpT-0l2Th9NKD-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YSOXVqkRpT-0l2Th9NKD-4" value="&lt;b&gt;Admin Client&lt;/b&gt;&lt;br&gt;&lt;i&gt;Nuxt3 Website&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1580" width="150" height="100" as="geometry" />
+          <mxGeometry x="120" y="1590" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YSOXVqkRpT-0l2Th9NKD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YSOXVqkRpT-0l2Th9NKD-5" target="YSOXVqkRpT-0l2Th9NKD-16">
+        <mxCell id="YSOXVqkRpT-0l2Th9NKD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YSOXVqkRpT-0l2Th9NKD-5" target="YSOXVqkRpT-0l2Th9NKD-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YSOXVqkRpT-0l2Th9NKD-5" value="&lt;b&gt;Chat API&lt;/b&gt;&lt;br&gt;&lt;i&gt;.NET 7 API&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="660" y="1440" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YSOXVqkRpT-0l2Th9NKD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSOXVqkRpT-0l2Th9NKD-6" target="YSOXVqkRpT-0l2Th9NKD-16">
+        <mxCell id="YSOXVqkRpT-0l2Th9NKD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSOXVqkRpT-0l2Th9NKD-6" target="YSOXVqkRpT-0l2Th9NKD-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YSOXVqkRpT-0l2Th9NKD-6" value="&lt;b&gt;Admin API&lt;/b&gt;&lt;br&gt;&lt;i&gt;.NET 7 API&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
@@ -461,7 +461,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YSOXVqkRpT-0l2Th9NKD-7" value="&lt;b&gt;ChatBotEngine API&lt;/b&gt;&lt;br&gt;&lt;i&gt;.NET 7 API&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1580" width="150" height="100" as="geometry" />
+          <mxGeometry x="660" y="1590" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YSOXVqkRpT-0l2Th9NKD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSOXVqkRpT-0l2Th9NKD-8" target="YSOXVqkRpT-0l2Th9NKD-5">
           <mxGeometry relative="1" as="geometry" />
@@ -469,17 +469,20 @@
         <mxCell id="YSOXVqkRpT-0l2Th9NKD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="YSOXVqkRpT-0l2Th9NKD-8" target="YSOXVqkRpT-0l2Th9NKD-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YSOXVqkRpT-0l2Th9NKD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSOXVqkRpT-0l2Th9NKD-8" target="YSOXVqkRpT-0l2Th9NKD-7">
+        <mxCell id="YSOXVqkRpT-0l2Th9NKD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSOXVqkRpT-0l2Th9NKD-5" target="YSOXVqkRpT-0l2Th9NKD-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YSOXVqkRpT-0l2Th9NKD-8" value="&lt;b&gt;Ingress&lt;/b&gt;&lt;br&gt;&lt;i&gt;Nginx Ingress&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="370" y="1440" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YSOXVqkRpT-0l2Th9NKD-14" value="&lt;b&gt;Open AI&lt;/b&gt;&lt;br&gt;&lt;i&gt;Third Party API&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1630" width="150" height="100" as="geometry" />
+          <mxGeometry x="940" y="1590" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YSOXVqkRpT-0l2Th9NKD-16" value="&lt;b&gt;Database&lt;/b&gt;&lt;br&gt;&lt;i&gt;Postgres RDS&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="970" y="1300" width="150" height="100" as="geometry" />
+        <mxCell id="YSOXVqkRpT-0l2Th9NKD-16" value="&lt;b&gt;Database Schema&lt;/b&gt;&lt;br&gt;&lt;i&gt;Postgres RDS&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1300" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YSOXVqkRpT-0l2Th9NKD-19" value="&lt;b&gt;Database Schema&lt;/b&gt;&lt;br&gt;&lt;i&gt;Postgres RDS&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1440" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
